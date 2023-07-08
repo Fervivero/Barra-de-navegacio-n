@@ -1,0 +1,34 @@
+.nav {
+    background-color: #212529;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: #f8f9fa;
+    margin-inline: 10px;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    margin-inline: 10px;
+}
+
+a:link {
+    color: grey;
+    ;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+button {
+    font-family: 'Roboto', sans-serif;
+    background-color: hsl(191, 62%, 63%);
+    color: white;
+}
